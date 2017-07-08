@@ -17,7 +17,9 @@ repositories {
 android {
   compileSdkVersion 15
   buildToolsVersion "19.1.0"
-
+  versionCode 1
+  versionName "1.1.0"
+ 
   android {
     sourceSets {
       main {
